@@ -10,18 +10,18 @@
 
 ### Screenshots of the app and Widget tree
 
-![Screenshot of bottom nav and its widget tree](profile_card_lab/assets/images/bottomNav.png)
-![Screenshot of bottom nav and its widget tree](profile_card_lab/assets/images/bottomNav2.png)
-![Screenshot of bottom nav and its widget tree](profile_card_lab/assets/images/bottomNav3.png)
-![Screenshot of bottom nav and its widget tree](profile_card_lab/assets/images/bottomNav4.png)
+![Screenshot of bottom nav and its widget tree](bottom_nav_lab/assets/images/bottomNav.png)
+![Screenshot of bottom nav and its widget tree](bottom_nav_lab/assets/images/bottomNav2.png)
+![Screenshot of bottom nav and its widget tree](bottom_nav_lab/assets/images/bottomNav3.png)
+![Screenshot of bottom nav and its widget tree](bottom_nav_lab/assets/images/bottomNav4.png)
 
 ## Lab3: Catalog
 
-![Screenshot of catalog and its widget tree](profile_card_lab/assets/images/catalog.png)
-![Screenshot of catalog and its widget tree](profile_card_lab/assets/images/catalog2.png)
+![Screenshot of catalog and its widget tree](catalog_lab/assets/images/catalog.png)
+![Screenshot of catalog and its widget tree](catalog_lab/assets/images/catalog2.png)
 
 
 ## Lab4: Registration form
 
-![Screenshot of registration form and its widget tree](profile_card_lab/assets/images/RegistrationForm.png)
-![Screenshot of registration form and its widget tree](profile_card_lab/assets/images/RegistrationForm.png)
+![Screenshot of registration form and its widget tree](registration_lab/assets/images/RegistrationForm.png)
+![Screenshot of registration form and its widget tree](registration_lab/assets/images/RegistrationForm.png)
