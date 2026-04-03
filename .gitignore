@@ -11,7 +11,7 @@ android/app/build/
 # iOS
 ios/Pods/
 ios/.symlinks/
-ios/Flutter/
+ios/Flutter/Flutter.framework
 
 # macOS
 macos/Pods/
@@ -25,6 +25,7 @@ linux/flutter/
 # IDE
 .vscode/
 .idea/
+.DS_Store
 
 # Misc
 *.log
